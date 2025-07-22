@@ -1,4 +1,4 @@
-# Employee Salary Prediction Dashboard
+# Employee Salary Prediction
 
 An interactive and advanced web dashboard that predicts employee salaries based on demographic and professional attributes — built using **Machine Learning**, **Streamlit**, and **Plotly**.
 
