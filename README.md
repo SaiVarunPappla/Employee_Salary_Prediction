@@ -1,4 +1,4 @@
-# 💼 Employee Salary Prediction Dashboard
+# Employee Salary Prediction Dashboard
 
 An interactive and advanced web dashboard that predicts employee salaries based on demographic and professional attributes — built using **Machine Learning**, **Streamlit**, and **Plotly**.
 
@@ -6,19 +6,19 @@ An interactive and advanced web dashboard that predicts employee salaries based 
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📊 Clean and dynamic **visualizations** using Plotly
-- 🎯 **Predictive model** trained using Scikit-Learn
-- 📁 Modular project structure (components, pipeline, utils)
-- ⚙️ Model loading using `dill` and custom pipeline
-- 📉 Exploratory Data Analysis with trends and insights
-- 💡 Streamlit-based **interactive web UI**
-- 🔒 Handles errors and invalid inputs gracefully
+-  Clean and dynamic **visualizations** using Plotly
+-  **Predictive model** trained using Scikit-Learn
+-  Modular project structure (components, pipeline, utils)
+- Model loading using `dill` and custom pipeline
+- Exploratory Data Analysis with trends and insights
+- Streamlit-based **interactive web UI**
+- Handles errors and invalid inputs gracefully
 
 ---
 
-## 🧠 Machine Learning
+## Machine Learning
 
 - Model: `Employee Salary Predictor`
 - Dataset: Employee attributes with salary labels
@@ -27,7 +27,7 @@ An interactive and advanced web dashboard that predicts employee salaries based 
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Category          | Tools / Libraries              |
 |------------------|-------------------------------|
@@ -39,7 +39,7 @@ An interactive and advanced web dashboard that predicts employee salaries based 
 
 ---
 
-## 📸 Preview Screenshots
+##  Preview Screenshots
 
 > _Save these images to `assets/` folder and link them below in your markdown._
 
@@ -49,7 +49,7 @@ An interactive and advanced web dashboard that predicts employee salaries based 
 
 ---
 
-## 📦 How to Run Locally
+##  How to Run Locally
 
 1. Clone the repository
 
