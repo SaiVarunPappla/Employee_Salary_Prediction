@@ -1,0 +1,3 @@
+import dill
+with open('artifacts/model.pkl', 'wb') as f:
+    dill.dump(trained_pipeline, f)
