@@ -20,7 +20,7 @@ An interactive and advanced web dashboard that predicts employee salaries based 
 
 ## Machine Learning
 
-- Model: `Employee Salary Predictor`
+- Model: Employee Salary Predictor
 - Dataset: Employee attributes with salary labels
 - Target: Income Prediction
 - Pipeline: Preprocessing ➝ Training ➝ Evaluation ➝ Prediction
@@ -40,8 +40,6 @@ An interactive and advanced web dashboard that predicts employee salaries based 
 ---
 
 ##  Preview Screenshots
-
-> _Save these images to `assets/` folder and link them below in your markdown._
 
 | Dashboard View | Input Form | Prediction Output |
 |----------------|------------|-------------------|
@@ -85,3 +83,4 @@ Streamlit Cloud URL:
  Author
 Sai Varun Pappla
 LinkedIn : [https://www.linkedin.com/feed/](https://www.linkedin.com/in/pappla-sai-varun-874902200/)
+
